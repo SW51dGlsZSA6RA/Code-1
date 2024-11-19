@@ -12,3 +12,5 @@ Dopo aver risolto l'enigma collegato al video e ricevuto un'altro codice, dovrai
 Buona fortuna.
 
 https://sw51dglszsa6ra.github.io/Code-1/
+
+_Hint: Il Decryption Type e' AES, piu' specifico aes-256-cbc_
